@@ -1,2 +1,7 @@
 # Image-Search-Engine
-Image Search Engine using Deep Autoencoder
+In this project, I implemented an image search engine from scratch using a deep autoencoder.
+
+## Packages
+- PyTorch
+- PyTorch Lightning
+
